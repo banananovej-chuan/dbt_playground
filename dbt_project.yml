@@ -19,7 +19,7 @@ seed-paths: ["seeds"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 vars:
-  ga4:
+  googleanalytics4:
     project: "bigquery-public-data"
     dataset: "ga4_obfuscated_sample_ecommerce"
     start_date: "20200101" # Earliest date to load
